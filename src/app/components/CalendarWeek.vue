@@ -8,7 +8,7 @@
                     v-bind:day="day"/> 
             </div>
     </div>
-</template>
+</template> 
 
 <script>
 
