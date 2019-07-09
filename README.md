@@ -1,7 +1,8 @@
 # Calendar Application 
 
 ## Demo
-![Alt text](https://ibb.co/LxxW39c "Calendar App")
+![ezgif com-optimize](https://user-images.githubusercontent.com/16463475/29050717-17078b86-7bde-11e7-8840-17cca462e761.gif)
+ 
 
 ## Project setup 
 ```
