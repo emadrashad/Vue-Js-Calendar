@@ -1,5 +1,5 @@
 # Calendar Application 
-
+this application demonstrate how to use different components to handle several tasks 
 ## Demo
 ![Screenshot](https://i.ibb.co/pff8S4M/calendar-app.gif)
 
